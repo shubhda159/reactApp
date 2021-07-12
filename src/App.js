@@ -20,10 +20,10 @@ function App() {
   <GoTop/>
   <Head/>
   <Card
-  imgsrc1="/images/img1.png"
-  imgsrc2="/images/img2.png"
-  imgsrc3="/images/img3.jpg"
-  imgsrc4="/images/img4.jpg"
+  imgsrc1=".reactApp/images/img1.png"
+  imgsrc2=".reactApp/images/img2.png"
+  imgsrc3=".reactApp/images/img3.jpg"
+  imgsrc4=".reactApp/images/img4.jpg"
   //titles
   title1="Boat Headphones"
   title2="Boat Earphones"
@@ -31,10 +31,10 @@ function App() {
   title4="Sony Speakers"
   />
   <Card
-  imgsrc1="/images/img5.jpeg"
-  imgsrc2="/images/img6.jpg"
-  imgsrc3="/images/img7.jpg"
-  imgsrc4="/images/watch.jpg"
+  imgsrc1=".reactApp/images/img5.jpeg"
+  imgsrc2=".reactApp/images/img6.jpg"
+  imgsrc3=".reactApp/images/img7.jpg"
+  imgsrc4=".reactApp/images/watch.jpg"
   //titles
   title1="Sandisk Pendrive"
   title2="Phone Stand"
@@ -42,12 +42,12 @@ function App() {
   title4="Smart Watch"
   />
   <Section
-  img="/images/referral.jpg"
+  img=".reactApp/images/referral.jpg"
   title=" REFFERAL PAGE"
   btn="CHECK"
   />
   <Section
-  img="\images\ipl.jpg"
+  img=".reactApp\images\ipl.jpg"
   title="EARN COINS BY PLAYING IPL-BONANZA!!"
   btn="PLAY NOW"
   />
